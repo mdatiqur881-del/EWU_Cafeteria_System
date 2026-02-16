@@ -1,6 +1,6 @@
 # EWU Cafeteria System
 
-**EWU Cafeteria Management System** is a comprehensive C-based console application designed to streamline cafeteria operations at East West University. The system supports role-based access and provides features for employees, managers, customers, and faculty/staff, covering menu management, order handling, discounts, table management, and customer feedback.  
+**EWU Cafeteria Management System** is a comprehensive C-based console application designed to streamline cafeteria operations at East West University. The system supports role-based access and provides features for employees, managers, customers, and faculty/staff, covering menu management, order handling, discounts, table management, and customer feedback.It was my 4th semester university project
 
 ---
 
